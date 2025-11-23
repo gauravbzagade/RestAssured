@@ -20,7 +20,7 @@ public class addPlaceApi {
         String palceid = js.getString("place_id");
         System.out.println(palceid);
 
-        //get location api
+
 
         String getplaceapi = given().log().all().queryParam("key", "qaclick123").queryParam("place_id", palceid).when().get("/maps/api/place/get/json")
                 .then().log().all().extract().asString();
