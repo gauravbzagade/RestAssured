@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Learn Appium Automation with Java",
+    "isbn": "gaurav101",
+    "aisle": "22f7",
+    "author": "John Foe"
+  },
+  {
+    "name": "Master Selenium WebDriver",
+    "isbn": "gaurav102",
+    "aisle": "31x9",
+    "author": "Alex Ray"
+  },
+  {
+    "name": "Rest Assured API Testing",
+    "isbn": "gaurav103",
+    "aisle": "44p2",
+    "author": "David Lee"
+  },
+  {
+    "name": "Postman for API Automation",
+    "isbn": "gaurav104",
+    "aisle": "57k4",
+    "author": "Samuel Roy"
+  },
+  {
+    "name": "Java Programming Essentials",
+    "isbn": "gaurav105",
+    "aisle": "63m1",
+    "author": "Chris Owen"
+  },
+  {
+    "name": "TestNG Framework Guide",
+    "isbn": "gaurav106",
+    "aisle": "75r8",
+    "author": "Mark Stone"
+  },
+  {
+    "name": "Cucumber BDD for Automation",
+    "isbn": "gaurav107",
+    "aisle": "82v5",
+    "author": "Evan Cole"
+  },
+  {
+    "name": "Git & GitHub for Testers",
+    "isbn": "gaurav108",
+    "aisle": "91b3",
+    "author": "Peter Nash"
+  },
+  {
+    "name": "Maven Build Management",
+    "isbn": "gaurav109",
+    "aisle": "12c6",
+    "author": "Robin Dale"
+  }
+  ]
